@@ -1,0 +1,22 @@
+body {
+    background-color:beige;
+}
+h1 {
+
+    color:lightblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left:600px;
+
+}
+
+p {
+    margin-left:550px;
+    color:rgb(19, 104, 178)
+}
+
+img {
+    margin-left:400px;
+    border: 30px black;
+    width:50%;
+    height:50%;
+}
